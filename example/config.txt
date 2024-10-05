@@ -1,0 +1,2 @@
+Prefix plugins/CHR/example/
+Plugin CHR inputfile parameters.txt outputfile results.rds
